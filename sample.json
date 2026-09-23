@@ -1,0 +1,39 @@
+{
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+        "uri": "https://en.wiktionary.org/wiki/spiraglio",
+        "request_id": "68144dfa-42b0-41e2-b509-e0f948d8dd9e",
+        "id": "88923e2d-9a9b-4dd8-9893-8f448ccbda33",
+        "domain": "en.wiktionary.org",
+        "stream": "mediawiki.recentchange",
+        "dt": "2026-09-21T13:33:25.392Z",
+        "topic": "eqiad.mediawiki.recentchange",
+        "partition": 0,
+        "offset": 6538965441
+    },
+    "id": 155108127,
+    "type": "edit",
+    "namespace": 0,
+    "title": "spiraglio",
+    "title_url": "https://en.wiktionary.org/wiki/spiraglio",
+    "comment": "/* Italian */",
+    "timestamp": 1789997603,
+    "user": "Saumache",
+    "bot": false,
+    "notify_url": "https://en.wiktionary.org/w/index.php?diff=92750859&oldid=71379533&rcid=155108127",
+    "minor": false,
+    "patrolled": true,
+    "length": {
+        "old": 186,
+        "new": 231
+    },
+    "revision": {
+        "old": 71379533,
+        "new": 92750859
+    },
+    "server_url": "https://en.wiktionary.org",
+    "server_name": "en.wiktionary.org",
+    "server_script_path": "/w",
+    "wiki": "enwiktionary",
+    "parsedcomment": "<span class=\"autocomment\"><a href=\"/wiki/spiraglio#Italian\" title=\"spiraglio\">→<bdi dir=\"ltr\">Italian</bdi></a></span>"
+}

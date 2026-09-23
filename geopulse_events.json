@@ -1,0 +1,29 @@
+[
+  {
+    "type": "article_subject_location",
+    "lat": 33.59,
+    "lon": 71.43972222,
+    "label": "Article Subject: Kohat",
+    "description": "City in Khyber Pakhtunkhwa, Pakistan",
+    "article": "Kohat",
+    "editor": "Cmills5"
+  },
+  {
+    "type": "article_subject_location",
+    "lat": 53.443,
+    "lon": -2.701,
+    "label": "Article Subject: St Cuthbert's Catholic High School",
+    "description": "Voluntary aided school in Sutton, Merseyside, England",
+    "article": "St Cuthbert's Catholic High School",
+    "editor": "NDORPHINS"
+  },
+  {
+    "type": "article_subject_location",
+    "lat": 8.91805556,
+    "lon": -77.70833333,
+    "label": "Article Subject: Tubual\u00e1 Airport",
+    "description": "Airport in Guna Yala Province",
+    "article": "Tubual\u00e1 Airport",
+    "editor": "Denelson83"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Tomara",
+      "request_id": "8bc1d675-17ce-4dd7-ba74-2e6232a4f28c",
+      "id": "52226a82-d7a0-4fa4-90f0-ef169b670680",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:54.851Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074094
+    },
+    "id": 2071075397,
+    "type": "edit",
+    "namespace": 0,
+    "title": "Tomara",
+    "title_url": "https://en.wikipedia.org/wiki/Tomara",
+    "comment": "",
+    "timestamp": 1790000574,
+    "user": "Gotitbro",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017431&oldid=1376016930",
+    "minor": false,
+    "length": {
+      "old": 402,
+      "new": 358
+    },
+    "revision": {
+      "old": 1376016930,
+      "new": 1376017431
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": ""
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Baggage_handler",
+      "request_id": "cb62eb8e-f287-47d9-a6a3-41012d6bfcab",
+      "id": "224710af-a51e-413d-be52-83fb08c01c8a",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:54.989Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074103
+    },
+    "id": 2071075398,
+    "type": "edit",
+    "namespace": 0,
+    "title": "Baggage handler",
+    "title_url": "https://en.wikipedia.org/wiki/Baggage_handler",
+    "comment": "Reverted 2 edits by [[Special:Contributions/~2026-50737-80|~2026-50737-80]] ([[User talk:~2026-50737-80|talk]]) to last revision by GabberFlasted",
+    "timestamp": 1790000572,
+    "user": "DonnieNova",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017428&oldid=1376017400",
+    "minor": true,
+    "length": {
+      "old": 13935,
+      "new": 13887
+    },
+    "revision": {
+      "old": 1376017400,
+      "new": 1376017428
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "Reverted 2 edits by <a href=\"/wiki/Special:Contributions/~2026-50737-80\" class=\"mw-tempuserlink\" title=\"Special:Contributions/~2026-50737-80\">~2026-50737-80</a> (<a href=\"/wiki/User_talk:~2026-50737-80\" title=\"User talk:~2026-50737-80\">talk</a>) to last revision by GabberFlasted"
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/User_talk:Pbritti",
+      "request_id": "a267eecf-be74-4ed1-8a5b-61d13408cfba",
+      "id": "597676b0-f215-443d-bf2d-d5f2e7798fe4",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:55.290Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074120
+    },
+    "id": 2071075399,
+    "type": "edit",
+    "namespace": 3,
+    "title": "User talk:Pbritti",
+    "title_url": "https://en.wikipedia.org/wiki/User_talk:Pbritti",
+    "comment": "/* Linking IPs and accounts */ reply to Pbritti",
+    "timestamp": 1790000573,
+    "user": "LuniZunie",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017430&oldid=1376017298",
+    "minor": false,
+    "length": {
+      "old": 10544,
+      "new": 11082
+    },
+    "revision": {
+      "old": 1376017298,
+      "new": 1376017430
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "<span class=\"autocomment\"><a href=\"/wiki/User_talk:Pbritti#Linking_IPs_and_accounts\" title=\"User talk:Pbritti\">\u2192<bdi dir=\"ltr\">Linking IPs and accounts</bdi></a>: </span> reply to Pbritti"
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Draft:Gheorghe_Terescenco",
+      "request_id": "0e044976-aded-417a-9d8d-27efbdedbffe",
+      "id": "994cbcc8-c501-45fb-8946-2e291ef39d6f",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:56.960Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074175
+    },
+    "id": 2071075400,
+    "type": "edit",
+    "namespace": 118,
+    "title": "Draft:Gheorghe Terescenco",
+    "title_url": "https://en.wikipedia.org/wiki/Draft:Gheorghe_Terescenco",
+    "comment": "",
+    "timestamp": 1790000575,
+    "user": "Andreea Terescenco",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017433&oldid=1375943013",
+    "minor": false,
+    "length": {
+      "old": 11663,
+      "new": 9845
+    },
+    "revision": {
+      "old": 1375943013,
+      "new": 1376017433
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": ""
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Provincial_Assembly_of_Sindh",
+      "request_id": "b8ce4c2d-ca08-4fa7-9c8a-f61b4f915c48",
+      "id": "decd394a-e17f-4a2c-bb1e-aaa60208dc61",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:57.090Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074178
+    },
+    "id": 2071075401,
+    "type": "edit",
+    "namespace": 0,
+    "title": "Provincial Assembly of Sindh",
+    "title_url": "https://en.wikipedia.org/wiki/Provincial_Assembly_of_Sindh",
+    "comment": "Restored revision 1374345740 by [[Special:Contributions/PhilKnight|PhilKnight]] ([[User talk:PhilKnight|talk]]): Unhelpful.",
+    "timestamp": 1790000574,
+    "user": "Vif12vf",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017434&oldid=1375922315",
+    "minor": false,
+    "length": {
+      "old": 26646,
+      "new": 26636
+    },
+    "revision": {
+      "old": 1375922315,
+      "new": 1376017434
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "Restored revision 1374345740 by <a href=\"/wiki/Special:Contributions/PhilKnight\" title=\"Special:Contributions/PhilKnight\">PhilKnight</a> (<a href=\"/wiki/User_talk:PhilKnight\" title=\"User talk:PhilKnight\">talk</a>): Unhelpful."
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Yakov_Novichenko_Bridge",
+      "request_id": "fc02dfcb-1c40-42a0-a41b-06779186ec80",
+      "id": "33112ec2-5436-470a-9219-487637ab1f80",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:58.785Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074269
+    },
+    "id": 2071075402,
+    "type": "edit",
+    "namespace": 0,
+    "title": "Yakov Novichenko Bridge",
+    "title_url": "https://en.wikipedia.org/wiki/Yakov_Novichenko_Bridge",
+    "comment": "/* Design */",
+    "timestamp": 1790000573,
+    "user": "Smeagol 17",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017432&oldid=1375221156",
+    "minor": false,
+    "length": {
+      "old": 23103,
+      "new": 23104
+    },
+    "revision": {
+      "old": 1375221156,
+      "new": 1376017432
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "<span class=\"autocomment\"><a href=\"/wiki/Yakov_Novichenko_Bridge#Design\" title=\"Yakov Novichenko Bridge\">\u2192<bdi dir=\"ltr\">Design</bdi></a></span>"
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/The_Thunder,_Perfect_Mind",
+      "request_id": "292c15d7-cd76-4ee9-af83-739b76e2a9c4",
+      "id": "c5b11412-26ae-41c0-838f-654b41316ec9",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:58.944Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074280
+    },
+    "id": 2071075403,
+    "type": "edit",
+    "namespace": 0,
+    "title": "The Thunder, Perfect Mind",
+    "title_url": "https://en.wikipedia.org/wiki/The_Thunder,_Perfect_Mind",
+    "comment": "added in media section",
+    "timestamp": 1790000576,
+    "user": "EasternVirginia",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017435&oldid=1373792872",
+    "minor": false,
+    "length": {
+      "old": 10139,
+      "new": 10850
+    },
+    "revision": {
+      "old": 1373792872,
+      "new": 1376017435
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "added in media section"
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Talk:HuBi_1",
+      "request_id": "f61deeb6-671a-4560-8d06-c36417e91149",
+      "id": "2cbade13-e25d-4f18-97a5-3ee7bb40d2bb",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:59.128Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074289
+    },
+    "id": 2071075404,
+    "type": "edit",
+    "namespace": 1,
+    "title": "Talk:HuBi 1",
+    "title_url": "https://en.wikipedia.org/wiki/Talk:HuBi_1",
+    "comment": "Defunct",
+    "timestamp": 1790000578,
+    "user": "Praemonitus",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017436&oldid=1366744703",
+    "minor": false,
+    "length": {
+      "old": 215,
+      "new": 193
+    },
+    "revision": {
+      "old": 1366744703,
+      "new": 1376017436
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "Defunct"
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Daran_Norris",
+      "request_id": "3a49a7c1-e544-4907-ba6a-7e8889b62694",
+      "id": "4b8468b1-1396-4c70-bd9e-bc5a011a7f05",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:59.206Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074295
+    },
+    "id": 2071075405,
+    "type": "edit",
+    "namespace": 0,
+    "title": "Daran Norris",
+    "title_url": "https://en.wikipedia.org/wiki/Daran_Norris",
+    "comment": "Copyediting",
+    "timestamp": 1790000574,
+    "user": "Fiction Fanatic III",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017429&oldid=1375455333",
+    "minor": false,
+    "length": {
+      "old": 34887,
+      "new": 34698
+    },
+    "revision": {
+      "old": 1375455333,
+      "new": 1376017429
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "Copyediting"
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Category:CS1_maint:_url-status",
+      "request_id": "292c15d7-cd76-4ee9-af83-739b76e2a9c4",
+      "id": "e1254e02-465c-44b5-8f9c-e9ad7efd0dd7",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:22:59.813Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074325
+    },
+    "id": 2071075406,
+    "type": "categorize",
+    "namespace": 14,
+    "title": "Category:CS1 maint: url-status",
+    "title_url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_url-status",
+    "comment": "[[:The Thunder, Perfect Mind]] added to category, [[Special:WhatLinksHere/The Thunder, Perfect Mind|this page is included within other pages]]",
+    "timestamp": 1790000576,
+    "user": "EasternVirginia",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017435&oldid=1373792872",
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "<a href=\"/wiki/The_Thunder,_Perfect_Mind\" title=\"The Thunder, Perfect Mind\">The Thunder, Perfect Mind</a> added to category, <a href=\"/wiki/Special:WhatLinksHere/The_Thunder,_Perfect_Mind\" title=\"Special:WhatLinksHere/The Thunder, Perfect Mind\">this page is included within other pages</a>"
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/User_talk:~2026-50737-80",
+      "request_id": "adaad40d-c317-415f-a9e7-b4c9462d61d1",
+      "id": "d339d116-2472-4185-9710-b1f9d6789c4f",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:23:01.887Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074413
+    },
+    "id": 2071075407,
+    "type": "edit",
+    "namespace": 3,
+    "title": "User talk:~2026-50737-80",
+    "title_url": "https://en.wikipedia.org/wiki/User_talk:~2026-50737-80",
+    "comment": "Caution: Unconstructive editing on [[:Baggage handler]].",
+    "timestamp": 1790000581,
+    "user": "DonnieNova",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017439&oldid=1376017076",
+    "minor": false,
+    "length": {
+      "old": 586,
+      "new": 1353
+    },
+    "revision": {
+      "old": 1376017076,
+      "new": 1376017439
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "Caution: Unconstructive editing on <a href=\"/wiki/Baggage_handler\" title=\"Baggage handler\">Baggage handler</a>."
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/User:AmandaNP/SPI_case_list",
+      "request_id": "e75611fa-38d2-4da6-a307-e0de97198555",
+      "id": "51fac26c-a9a2-4d99-835d-3136434fdc53",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:23:02.381Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074426
+    },
+    "id": 2071075408,
+    "type": "edit",
+    "namespace": 2,
+    "title": "User:AmandaNP/SPI case list",
+    "title_url": "https://en.wikipedia.org/wiki/User:AmandaNP/SPI_case_list",
+    "comment": "Updating SPI caselist",
+    "timestamp": 1790000578,
+    "user": "DeltaQuadBot",
+    "bot": true,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017438&oldid=1376013547",
+    "minor": false,
+    "length": {
+      "old": 49529,
+      "new": 49712
+    },
+    "revision": {
+      "old": 1376013547,
+      "new": 1376017438
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "Updating SPI caselist"
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines",
+      "request_id": "59c42e43-4b03-4c14-a80b-4486bf6fbd47",
+      "id": "878b8df0-92b5-4e2c-949c-44ade404db23",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:23:02.901Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074445
+    },
+    "type": "log",
+    "namespace": 0,
+    "title": "Pakistan International Airlines",
+    "title_url": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines",
+    "comment": "",
+    "timestamp": 1790000582,
+    "user": "Kokofruitkt",
+    "bot": false,
+    "log_id": 0,
+    "log_type": "abusefilter",
+    "log_action": "hit",
+    "log_params": {
+      "action": "edit",
+      "filter": "550",
+      "actions": "tag",
+      "log": 45180033
+    },
+    "log_action_comment": "Kokofruitkt triggered [[Special:AbuseFilter/550|filter 550]], performing the action \"edit\" on [[Pakistan International Airlines]]. Actions taken: Tag ([[Special:AbuseLog/45180033|details]])",
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": ""
+  },
+  {
+    "$schema": "/mediawiki/recentchange/1.0.0",
+    "meta": {
+      "uri": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines",
+      "request_id": "59c42e43-4b03-4c14-a80b-4486bf6fbd47",
+      "id": "21f11c82-285d-4df4-8c33-39af918dfe65",
+      "domain": "en.wikipedia.org",
+      "stream": "mediawiki.recentchange",
+      "dt": "2026-09-21T14:23:03.058Z",
+      "topic": "eqiad.mediawiki.recentchange",
+      "partition": 0,
+      "offset": 6539074452
+    },
+    "id": 2071075409,
+    "type": "edit",
+    "namespace": 0,
+    "title": "Pakistan International Airlines",
+    "title_url": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines",
+    "comment": "The Airline currently doesn't have Tewolde Gebremariam as CEO. He has been officially appointed as the CEO and MD of Air India. https://www.thehindu.com/business/Industry/tewolde-gebremariam-air-india-new-ceo/article71309586.ece",
+    "timestamp": 1790000564,
+    "user": "Kokofruitkt",
+    "bot": false,
+    "notify_url": "https://en.wikipedia.org/w/index.php?diff=1376017417&oldid=1375871704",
+    "minor": true,
+    "length": {
+      "old": 145248,
+      "new": 145201
+    },
+    "revision": {
+      "old": 1375871704,
+      "new": 1376017417
+    },
+    "server_url": "https://en.wikipedia.org",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "wiki": "enwiki",
+    "parsedcomment": "The Airline currently doesn&#039;t have Tewolde Gebremariam as CEO. He has been officially appointed as the CEO and MD of Air India. https://www.thehindu.com/business/Industry/tewolde-gebremariam-air-india-new-ceo/article71309586.ece"
+  }
+]

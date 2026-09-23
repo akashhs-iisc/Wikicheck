@@ -1,0 +1,40 @@
+{
+  "duration_seconds": 14.8,
+  "total_edits": 40,
+  "edits_per_second": 2.69,
+  "churn": {
+    "bytes_added": 2131,
+    "bytes_deleted": 717,
+    "net_bytes": 1414,
+    "net_kb": 1.38,
+    "gross_churn_kb": 2.78
+  },
+  "actors": {
+    "human_edits": 34,
+    "bot_edits": 6,
+    "bot_ratio_pct": 15.0,
+    "human_net_bytes": 1949,
+    "bot_net_bytes": -535
+  },
+  "top_edited_articles": {
+    "Battle of Cable Street": 1,
+    "Draft:Kong Girl": 1,
+    "Wicke": 1,
+    "Romania\u2013Ukraine relations": 1,
+    "Colfax County War": 1
+  },
+  "namespace_breakdown": {
+    "Main Article": 19,
+    "Category": 10,
+    "Template": 5,
+    "User": 3,
+    "Other (NS 118)": 2
+  },
+  "top_contributors": {
+    "Denelson83": 5,
+    "EarwigBot": 4,
+    "Mypurplelightsaber": 3,
+    "VampaVampa": 3,
+    "DoubleGrazing": 2
+  }
+}
